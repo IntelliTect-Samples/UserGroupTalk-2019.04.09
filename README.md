@@ -2,8 +2,6 @@
 
 https://docs.microsoft.com/en-us/azure/machine-learning/studio/create-experiment
 
-https://www.3blue1brown.com/videos/2017/10/9/neural-network
-
 https://www.tensorflow.org/hub/tutorials/image_retraining
 
 
